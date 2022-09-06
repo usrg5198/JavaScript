@@ -1,1 +1,1 @@
-console.log("Subscribe now!");
+console.log("LOGIN now!");
